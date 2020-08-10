@@ -17,9 +17,12 @@
     "coverage": 1,
     "encumbrance": 1,
     "max_encumbrance": 1,
-    "storage": "120 L",
+    "storage": "150 L",
     "warmth": 1,
     "material_thickness": 2,
+    "pocket_data": [
+      { "pocket_type": "CONTAINER", "max_contains_volume": "120 L", "max_contains_weight": "500 kg", "moves": 80 }
+    ],
     "flags": [ "BELTED", "WATERPROOF", "STURDY", "POWERARMOR_COMPATIBLE" ]
   },
   {
